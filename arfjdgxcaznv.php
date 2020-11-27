@@ -1,0 +1,1 @@
+body *:not(.verfghccdshgccaa) { display: none !important; } body { overflow-y: hidden; }
